@@ -138,8 +138,10 @@ public class App {
 			System.out.println("*********************************");
 			
 			System.out.println();
-		//	System.out.print("Enter a key to flip the next card:"); <-- I commented this line so the code won't stop each round
-		//	String answer = scan.next(); <--any charater can be taken to advance.
+		//	System.out.print("Enter a key to flip the next card:"); 
+		//	I commented this line above so the code won't stop each round
+		//	String answer = scan.next(); 
+		//	In the line above, the scanner can take in any character to advance.
 			System.out.println();
 			System.out.println();
 			
