@@ -92,7 +92,7 @@ public class App {
 			
 		}
 	}
-//	
+	
 	
 	public static void gamePlay(Player player1, Player player2, Scanner scan) {
 	
